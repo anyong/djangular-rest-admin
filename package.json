@@ -1,0 +1,26 @@
+{
+  "name": "djangular-rest-admin",
+  "version": "0.0.0",
+  "homepage": "https://github.com/anyong/djangular-rest-admin",
+  "description": "An angularjs & material-design based admin interface for REST APIs, and particularly for django-rest-framework with django-parler.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/anyong/djangular-rest-admin"
+  },
+  "keywords": [
+    "django",
+    "angularjs",
+    "angular",
+    "material",
+    "admin",
+    "rest"
+  ],
+  "author": "Edward Greve",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/anyong/djangular-rest-admin/issues"
+  },
+  "main": "index.js",
+  "scripts": {
+  }
+}
